@@ -84,19 +84,19 @@
     "url": "https://engr.uky.edu",
     "icon": "https://icons.duckduckgo.com/ip3/engr.uky.edu.ico",
     "slug": "college-of-engineering",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 411,
-    "timeDay": 71,
-    "timeWeek": 181,
-    "timeMonth": 374,
-    "timeYear": 411,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.95%",
+    "time": 632,
+    "timeDay": 4437,
+    "timeWeek": 1259,
+    "timeMonth": 655,
+    "timeYear": 632,
     "dailyMinutesDown": {
-      "2024-03-13": 2,
+      "2024-03-13": 13,
       "2024-02-13": 11
     }
   },
@@ -105,9 +105,9 @@
     "url": "https://as.uky.edu",
     "icon": "https://icons.duckduckgo.com/ip3/as.uky.edu.ico",
     "slug": "college-of-arts-and-sciences",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -116,7 +116,9 @@
     "timeWeek": 489,
     "timeMonth": 601,
     "timeYear": 657,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-13": 0
+    }
   },
   {
     "name": "College of Business and Economics",
@@ -153,7 +155,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-13": 1227,
+      "2024-03-13": 1239,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
