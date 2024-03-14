@@ -24,10 +24,10 @@
     "url": "https://admission.uky.edu",
     "icon": "https://icons.duckduckgo.com/ip3/admission.uky.edu.ico",
     "slug": "undergraduate-admissions",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.88%",
     "time": 572,
@@ -36,6 +36,7 @@
     "timeMonth": 600,
     "timeYear": 572,
     "dailyMinutesDown": {
+      "2024-03-14": 1,
       "2024-03-11": 24,
       "2024-02-14": 15,
       "2024-02-13": 18
@@ -161,7 +162,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 117,
+      "2024-03-14": 155,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
