@@ -132,10 +132,10 @@
     "url": "https://gatton.uky.edu",
     "icon": "https://icons.duckduckgo.com/ip3/gatton.uky.edu.ico",
     "slug": "college-of-business-and-economics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
@@ -143,7 +143,9 @@
     "timeWeek": 222,
     "timeMonth": 252,
     "timeYear": 249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-14": 1
+    }
   },
   {
     "name": "College of Agriculture Food and Environment",
@@ -162,7 +164,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 165,
+      "2024-03-14": 222,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
