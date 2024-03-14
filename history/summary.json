@@ -165,7 +165,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 682,
+      "2024-03-14": 783,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
@@ -207,9 +207,9 @@
     "url": "https://finearts.uky.edu",
     "icon": "https://icons.duckduckgo.com/ip3/finearts.uky.edu.ico",
     "slug": "college-of-fine-arts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -218,6 +218,8 @@
     "timeWeek": 954,
     "timeMonth": 476,
     "timeYear": 433,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-14": 0
+    }
   }
 ]
