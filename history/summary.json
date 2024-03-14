@@ -4,18 +4,19 @@
     "url": "https://www.uky.edu",
     "icon": "https://icons.duckduckgo.com/ip3/www.uky.edu.ico",
     "slug": "uk-home",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 642,
     "timeDay": 2348,
     "timeWeek": 914,
     "timeMonth": 679,
     "timeYear": 642,
     "dailyMinutesDown": {
+      "2024-03-14": 2,
       "2024-03-13": 11
     }
   },
@@ -165,7 +166,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-14": 804,
+      "2024-03-14": 816,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
