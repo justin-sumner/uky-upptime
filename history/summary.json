@@ -116,9 +116,9 @@
     "url": "https://as.uky.edu",
     "icon": "https://icons.duckduckgo.com/ip3/as.uky.edu.ico",
     "slug": "college-of-arts-and-sciences",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "90.08%",
+    "uptimeDay": "90.05%",
     "uptimeWeek": "98.04%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.60%",
@@ -128,7 +128,7 @@
     "timeMonth": 2989,
     "timeYear": 2656,
     "dailyMinutesDown": {
-      "2024-03-15": 29,
+      "2024-03-15": 30,
       "2024-03-14": 131,
       "2024-03-13": 38
     }
@@ -171,7 +171,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-15": 352,
+      "2024-03-15": 455,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
